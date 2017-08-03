@@ -1,0 +1,46 @@
+c:\users\afahe\documents\visual studio 2017\Projects\SimpleWebBrowser\SimpleWebBrowser\bin\Debug\SimpleWebBrowser.exe.config
+c:\users\afahe\documents\visual studio 2017\Projects\SimpleWebBrowser\SimpleWebBrowser\bin\Debug\SimpleWebBrowser.exe
+c:\users\afahe\documents\visual studio 2017\Projects\SimpleWebBrowser\SimpleWebBrowser\bin\Debug\SimpleWebBrowser.pdb
+c:\users\afahe\documents\visual studio 2017\Projects\SimpleWebBrowser\SimpleWebBrowser\obj\Debug\SimpleWebBrowser.csprojResolveAssemblyReference.cache
+c:\users\afahe\documents\visual studio 2017\Projects\SimpleWebBrowser\SimpleWebBrowser\obj\Debug\SimpleWebBrowser.Form1.resources
+c:\users\afahe\documents\visual studio 2017\Projects\SimpleWebBrowser\SimpleWebBrowser\obj\Debug\SimpleWebBrowser.Properties.Resources.resources
+c:\users\afahe\documents\visual studio 2017\Projects\SimpleWebBrowser\SimpleWebBrowser\obj\Debug\SimpleWebBrowser.csproj.GenerateResource.Cache
+c:\users\afahe\documents\visual studio 2017\Projects\SimpleWebBrowser\SimpleWebBrowser\obj\Debug\SimpleWebBrowser.exe
+c:\users\afahe\documents\visual studio 2017\Projects\SimpleWebBrowser\SimpleWebBrowser\obj\Debug\SimpleWebBrowser.pdb
+C:\Users\afahe\documents\visual studio 2017\Projects\SimpleWebBrowser\SimpleWebBrowser\bin\Debug\SimpleWebBrowser.exe.manifest
+C:\Users\afahe\documents\visual studio 2017\Projects\SimpleWebBrowser\SimpleWebBrowser\bin\Debug\SimpleWebBrowser.application
+C:\Users\afahe\documents\visual studio 2017\Projects\SimpleWebBrowser\SimpleWebBrowser\obj\Debug\SimpleWebBrowser.exe.manifest
+C:\Users\afahe\documents\visual studio 2017\Projects\SimpleWebBrowser\SimpleWebBrowser\obj\Debug\SimpleWebBrowser.application
+E:\SimpleWebBrowser\SimpleWebBrowser\bin\Debug\SimpleWebBrowser.exe.config
+E:\SimpleWebBrowser\SimpleWebBrowser\obj\Debug\SimpleWebBrowser.exe
+E:\SimpleWebBrowser\SimpleWebBrowser\obj\Debug\SimpleWebBrowser.pdb
+E:\SimpleWebBrowser\SimpleWebBrowser\obj\Debug\SimpleWebBrowser.csprojResolveAssemblyReference.cache
+E:\SimpleWebBrowser\SimpleWebBrowser\obj\Debug\SimpleWebBrowser.Form1.resources
+E:\SimpleWebBrowser\SimpleWebBrowser\obj\Debug\SimpleWebBrowser.Properties.Resources.resources
+E:\SimpleWebBrowser\SimpleWebBrowser\obj\Debug\SimpleWebBrowser.csproj.GenerateResource.Cache
+D:\SimpleWebBrowser\SimpleWebBrowser\bin\Debug\SimpleWebBrowser.exe.config
+D:\SimpleWebBrowser\SimpleWebBrowser\bin\Debug\SimpleWebBrowser.exe.manifest
+D:\SimpleWebBrowser\SimpleWebBrowser\bin\Debug\SimpleWebBrowser.application
+D:\SimpleWebBrowser\SimpleWebBrowser\bin\Debug\SimpleWebBrowser.exe
+D:\SimpleWebBrowser\SimpleWebBrowser\bin\Debug\SimpleWebBrowser.pdb
+D:\SimpleWebBrowser\SimpleWebBrowser\obj\Debug\SimpleWebBrowser.csprojResolveAssemblyReference.cache
+D:\SimpleWebBrowser\SimpleWebBrowser\obj\Debug\SimpleWebBrowser.Form1.resources
+D:\SimpleWebBrowser\SimpleWebBrowser\obj\Debug\SimpleWebBrowser.Properties.Resources.resources
+D:\SimpleWebBrowser\SimpleWebBrowser\obj\Debug\SimpleWebBrowser.csproj.GenerateResource.Cache
+D:\SimpleWebBrowser\SimpleWebBrowser\obj\Debug\SimpleWebBrowser.exe.manifest
+D:\SimpleWebBrowser\SimpleWebBrowser\obj\Debug\SimpleWebBrowser.application
+D:\SimpleWebBrowser\SimpleWebBrowser\obj\Debug\SimpleWebBrowser.exe
+D:\SimpleWebBrowser\SimpleWebBrowser\obj\Debug\SimpleWebBrowser.pdb
+K:\SimpleWebBrowser\SimpleWebBrowser\bin\Debug\SimpleWebBrowser.exe.config
+K:\SimpleWebBrowser\SimpleWebBrowser\bin\Debug\SimpleWebBrowser.exe.manifest
+K:\SimpleWebBrowser\SimpleWebBrowser\bin\Debug\SimpleWebBrowser.application
+K:\SimpleWebBrowser\SimpleWebBrowser\bin\Debug\SimpleWebBrowser.exe
+K:\SimpleWebBrowser\SimpleWebBrowser\bin\Debug\SimpleWebBrowser.pdb
+K:\SimpleWebBrowser\SimpleWebBrowser\obj\Debug\SimpleWebBrowser.csprojResolveAssemblyReference.cache
+K:\SimpleWebBrowser\SimpleWebBrowser\obj\Debug\SimpleWebBrowser.Form1.resources
+K:\SimpleWebBrowser\SimpleWebBrowser\obj\Debug\SimpleWebBrowser.Properties.Resources.resources
+K:\SimpleWebBrowser\SimpleWebBrowser\obj\Debug\SimpleWebBrowser.csproj.GenerateResource.Cache
+K:\SimpleWebBrowser\SimpleWebBrowser\obj\Debug\SimpleWebBrowser.exe.manifest
+K:\SimpleWebBrowser\SimpleWebBrowser\obj\Debug\SimpleWebBrowser.application
+K:\SimpleWebBrowser\SimpleWebBrowser\obj\Debug\SimpleWebBrowser.exe
+K:\SimpleWebBrowser\SimpleWebBrowser\obj\Debug\SimpleWebBrowser.pdb
