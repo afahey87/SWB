@@ -129,5 +129,14 @@ namespace SimpleWebBrowser
             webBrowser1.GoForward();
 
         }
+        /// <summary>
+        /// This button will bring the user back to the stock Home page. 
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
+        private void Home_Click(object sender, EventArgs e)
+        {
+            webBrowser1.GoHome();
+        }
     }
 }
