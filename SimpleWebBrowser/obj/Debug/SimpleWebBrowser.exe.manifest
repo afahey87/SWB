@@ -42,14 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="SimpleWebBrowser.exe" size="12768">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="SimpleWebBrowser.exe" size="184800">
       <assemblyIdentity name="SimpleWebBrowser" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>xSQv+dJjbjrGqCAOzRPxPBP0q71dGUls6AYb7cUeVhM=</dsig:DigestValue>
+        <dsig:DigestValue>NdL8who1+pYISdo95Ztw0MlBh1dy1fvt28ZfXgDwDeo=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

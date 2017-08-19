@@ -129,5 +129,40 @@ namespace SimpleWebBrowser
             webBrowser1.GoForward();
 
         }
+        /// <summary>
+        /// Thi button will refresh the page when clicked. 
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
+        private void button5_Click(object sender, EventArgs e)
+        {
+            webBrowser1.Refresh();
+        }
+
+
+        /// <summary>
+        /// This button will bring the browser back to home. 
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
+        private void button4_Click(object sender, EventArgs e)
+        {
+            webBrowser1.GoHome();
+            
+            textBox1.Clear();
+
+            //textBox1.Text = webBrowser1.Url.ToString();   This line should write the home button url to the text box. Instead it writes the last used url to the textbox. 
+        }
+
+
+        /// <summary>
+        /// This button will stop the webpage from loading. 
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
+        private void button6_Click(object sender, EventArgs e)
+        {
+            webBrowser1.Stop();
+        }
     }
 }

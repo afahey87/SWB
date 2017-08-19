@@ -44,3 +44,16 @@ K:\SimpleWebBrowser\SimpleWebBrowser\obj\Debug\SimpleWebBrowser.exe.manifest
 K:\SimpleWebBrowser\SimpleWebBrowser\obj\Debug\SimpleWebBrowser.application
 K:\SimpleWebBrowser\SimpleWebBrowser\obj\Debug\SimpleWebBrowser.exe
 K:\SimpleWebBrowser\SimpleWebBrowser\obj\Debug\SimpleWebBrowser.pdb
+C:\Users\afahe\Documents\GitHub\SWB\SimpleWebBrowser\bin\Debug\SimpleWebBrowser.exe.config
+C:\Users\afahe\Documents\GitHub\SWB\SimpleWebBrowser\bin\Debug\SimpleWebBrowser.exe.manifest
+C:\Users\afahe\Documents\GitHub\SWB\SimpleWebBrowser\bin\Debug\SimpleWebBrowser.application
+C:\Users\afahe\Documents\GitHub\SWB\SimpleWebBrowser\bin\Debug\SimpleWebBrowser.exe
+C:\Users\afahe\Documents\GitHub\SWB\SimpleWebBrowser\bin\Debug\SimpleWebBrowser.pdb
+C:\Users\afahe\Documents\GitHub\SWB\SimpleWebBrowser\obj\Debug\SimpleWebBrowser.csprojResolveAssemblyReference.cache
+C:\Users\afahe\Documents\GitHub\SWB\SimpleWebBrowser\obj\Debug\SimpleWebBrowser.Form1.resources
+C:\Users\afahe\Documents\GitHub\SWB\SimpleWebBrowser\obj\Debug\SimpleWebBrowser.Properties.Resources.resources
+C:\Users\afahe\Documents\GitHub\SWB\SimpleWebBrowser\obj\Debug\SimpleWebBrowser.csproj.GenerateResource.Cache
+C:\Users\afahe\Documents\GitHub\SWB\SimpleWebBrowser\obj\Debug\SimpleWebBrowser.exe.manifest
+C:\Users\afahe\Documents\GitHub\SWB\SimpleWebBrowser\obj\Debug\SimpleWebBrowser.application
+C:\Users\afahe\Documents\GitHub\SWB\SimpleWebBrowser\obj\Debug\SimpleWebBrowser.exe
+C:\Users\afahe\Documents\GitHub\SWB\SimpleWebBrowser\obj\Debug\SimpleWebBrowser.pdb
